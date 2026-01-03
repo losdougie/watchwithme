@@ -11,3 +11,4 @@
 [Naked Gun](https://www.imdb.com/title/tt3402138) - 1/2/2026  
 
 
+[Favorites](favorites.md)
